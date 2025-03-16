@@ -26,6 +26,7 @@ Come Usare il Dump SQL
 
 Se hai MySQL installato, puoi importare il dump con il seguente comando nel terminale:
 mysql -u root -p < project_work_dump.sql
+
 Se vuoi importarlo in un database specifico:
 mysql -u root -p nome_database < project_work_dump.sql
 Sostituisci nome_database con il nome del tuo database.

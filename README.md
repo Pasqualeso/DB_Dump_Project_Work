@@ -1,6 +1,4 @@
 # DB_Dump_Project_Work
-Descrizione
-
 Questo repository contiene il dump SQL del database sviluppato per il project work universitario nel settore trasporti ferroviari. Il database è progettato per gestire biglietti, prenotazioni, tratte ferroviarie e passeggeri.
 
 Struttura del Database
